@@ -2,12 +2,12 @@
 ## 📝 Introduction
 
 ## Contents
-- [Awesome Video Generation ](#awesome-video-generation-)
+- [Awesome Anomaly Defection](#awesome-video-generation-)
   - [📝 Introduction](#-introduction)
   - [Contents](#contents)
   - [✨Survey\_Papers](#survey_papers)
   - [🌟Datasets](#datasets)
-  - [🚀Defect-Detection](#Defect-Detection)
+  - [🚀Defect-Detection](#Anomaly-Defection)
     - [2023](#2023)
     - [2022](#2022)
     - [2021](#2021)
@@ -16,7 +16,7 @@
 
 ## 🌟Datasets
 
-## 🚀Defect-Detection
+## 🚀Anomaly-Defection
 
 ### 2023
 ### 2022
