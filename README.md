@@ -19,7 +19,9 @@
 + [Steel Surface Defect Recognition: A Survey](https://www.mdpi.com/2079-6412/13/1/17)(2020)
 + [Visual-Based Defect Detection and Classification Approaches for Industrial Applications—A SURVEY](https://www.mdpi.com/1424-8220/20/5/1459)(2020)
 + [A Survey of Surface Defect Detection of Industrial Products Based on A Small Number of Labeled Data](https://arxiv.org/abs/2203.05733)(2022)
-+ 
+
+## Tool
++ [![Anomalib](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)](https://github.com/openvinotoolkit/anomalib)
 ## 🌟Datasets
 + [Metal Surface Defects Dataset | Kaggle](https://www.kaggle.com/datasets/fantacher/neu-metal-surface-defects-data)
 + [Aluminum surface defect detection | Nature](https://tianchi.aliyun.com/competition/entrance/231682/information)
@@ -31,5 +33,9 @@
 ## 🚀Anomaly-Defection
 
 ### 2023
++ [A Discrepancy Aware Framework for Robust Anomaly Detection](https://arxiv.org/abs/2310.07585)  
+  [![Star](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)](https://github.com/caiyuxuan1120/daf)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07585)
+
 ### 2022
 ### 2021
