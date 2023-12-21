@@ -16,6 +16,8 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14717)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://celebv-text.github.io/)
 ## ✨Survey_Papers
++ [Deep Industrial Image Anomaly Detection: A Survey](https://arxiv.org/abs/2301.11514)(2023)
+  [![Star](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)](https://github.com/M-3LAB/awesome-industrial-anomaly-detection)
 + [Steel Surface Defect Recognition: A Survey](https://www.mdpi.com/2079-6412/13/1/17)(2020)
 + [Visual-Based Defect Detection and Classification Approaches for Industrial Applications—A SURVEY](https://www.mdpi.com/1424-8220/20/5/1459)(2020)
 + [A Survey of Surface Defect Detection of Industrial Products Based on A Small Number of Labeled Data](https://arxiv.org/abs/2203.05733)(2022)
