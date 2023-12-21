@@ -31,12 +31,20 @@
 + [RSDDs: Rail Surface Defect Datasets](https://github.com/cswizard11/RSDDs)
 + [BSData - Instance Segmentation & Wear Forecasting](https://github.com/2Obe/BSData)
 + [GID: The Gear Inspection Dataset](http://www.aiinnovation.com.cn/#/dataDetail?id=34)
++ [MVTec AD: The MVTec anomaly detection dataset.](https://www.mvtec.com/company/research/datasets/mvtec-ad/)
 ## 🚀Anomaly-Defection
 
 ### 2023
 + [A Discrepancy Aware Framework for Robust Anomaly Detection](https://arxiv.org/abs/2310.07585)  
   [![Star](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)](https://github.com/caiyuxuan1120/daf)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07585)
-
++ [Anomaly Detection with Conditioned Denoising Diffusion Models](https://arxiv.org/abs/2305.15956)
+  [![Star](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)](https://github.com/arimousa/DDAD)
 ### 2022
 ### 2021
++ [Mixed supervision for surface-defect detection: from weakly to fully supervised learning](https://arxiv.org/abs/2104.06064)(MVTec AD #1)
+  [![Star](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)](https://github.com/vicoslab/mixed-segdec-net-comind2021)
++ [EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies](https://arxiv.org/abs/2303.14535)(MVTec AD #2)
+  [![Star](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)](https://github.com/nelson1425/EfficientAD)
+
+
