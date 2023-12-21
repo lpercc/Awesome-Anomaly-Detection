@@ -21,7 +21,8 @@
 + [A Survey of Surface Defect Detection of Industrial Products Based on A Small Number of Labeled Data](https://arxiv.org/abs/2203.05733)(2022)
 
 ## Tool
-+ [![Anomalib](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)](https://github.com/openvinotoolkit/anomalib)
++ [Anomalib][![Star](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)](https://github.com/openvinotoolkit/anomalib)
+  Anomalib is a deep learning library that aims to collect state-of-the-art anomaly detection algorithms for benchmarking on both public and private datasets. 
 ## 🌟Datasets
 + [Metal Surface Defects Dataset | Kaggle](https://www.kaggle.com/datasets/fantacher/neu-metal-surface-defects-data)
 + [Aluminum surface defect detection | Nature](https://tianchi.aliyun.com/competition/entrance/231682/information)
